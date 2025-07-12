@@ -25,5 +25,5 @@ I'm a young Python developer passionate about automation, APIs, scripting, and b
 ---
 
 Let’s connect!
-- [LinkedIn](https://linkedin.com/in/daniel-iyendo-5972)
+- [LinkedIn](https://linkedin.com/in/daniel-iyendo-59725b340)
 - [Gmail](iyendodaniel4@gmail.com)
