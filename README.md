@@ -1,6 +1,5 @@
-# Hi, I'm Daniel 👋
+# Curiosity invited.
 
-I'm a young Python developer passionate about automation, APIs, scripting, and building real-world terminal tools. I'm currently exploring back-end development, cybersecurity, and DevOps.
 ---
 
 Let’s connect!
