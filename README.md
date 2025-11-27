@@ -1,4 +1,5 @@
-# Curiosity invited.
+# Dare to explore?
+
 
 ---
 
