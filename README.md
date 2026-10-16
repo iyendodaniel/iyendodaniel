@@ -2,7 +2,7 @@
 
 Let’s connect!
 - [LinkedIn](https://linkedin.com/in/danieliyendo)
-- [Gmail](iyendodaniel4@gmail.com)
+- [Email](mailto:iyendodaniel4@gmail.com)
 - [Linktree](https://linktr.ee/danieliyendo)
 - [Tacksy](https://www.tacksy.xyz)
 
