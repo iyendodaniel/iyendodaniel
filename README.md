@@ -62,4 +62,6 @@ Drag-and-drop board for planning and organising content.
 ![OAuth](https://img.shields.io/badge/OAuth-3EAAAF?style=flat-square&logo=auth0&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=80&section=footer" width="100%" alt="" />
+
 </div>
