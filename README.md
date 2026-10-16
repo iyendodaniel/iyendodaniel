@@ -28,7 +28,7 @@ Source is private, but every overview repo has screenshots and architecture note
 <tr>
 <td width="33%" valign="top">
 
-**🎯 Vettern**
+**🎯 Vettern**<br/>
 <sub>formerly InternConnect</sub>
 
 5-stage, AI-assisted talent vetting platform for Nigerian interns.
@@ -38,7 +38,7 @@ Source is private, but every overview repo has screenshots and architecture note
 </td>
 <td width="33%" valign="top">
 
-**🏫 Classent**
+**🏫 Classent**<br/>
 <sub>School management SaaS</sub>
 
 Multi-tenant platform that lets many schools run on one system.
@@ -48,7 +48,7 @@ Multi-tenant platform that lets many schools run on one system.
 </td>
 <td width="33%" valign="top">
 
-**🗂️ Tacksy**
+**🗂️ Tacksy**<br/>
 <sub>Content planning</sub>
 
 Drag-and-drop board for planning and organising content.
