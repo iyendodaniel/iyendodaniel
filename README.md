@@ -33,7 +33,7 @@ Source is private, but every overview repo has screenshots and architecture note
 
 5-stage, AI-assisted talent vetting platform for Nigerian interns.
 
-[Live](https://internconnect.pro) · [Overview](https://github.com/iyendodaniel/vettern-showcase)
+[Live](https://vettern.pro) · [Overview](https://github.com/iyendodaniel/vettern-showcase)
 
 </td>
 <td width="33%" valign="top">
